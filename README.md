@@ -1,2 +1,2 @@
 # SQL
-My learning project
+I created an e-shop database.
